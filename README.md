@@ -9,7 +9,6 @@ A comprehensive CRUD operations project built using Django, Python, HTML, and Bo
 - Demonstrates fundamental Django concepts.
 
 ## Technologies Used
-
 - Django
 - HTML
 - Bootstrap
